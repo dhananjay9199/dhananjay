@@ -1,0 +1,12 @@
+git id : dhananjay9199
+password: Ujjwal@4534
+
+PS C:\Users\MrD\Desktop\cdac doc\SDM> git --version
+git version 2.39.0.windows.2
+PS C:\Users\MrD\Desktop\cdac doc\SDM>  git config --global user.name "dhananjay"
+PS C:\Users\MrD\Desktop\cdac doc\SDM> git config --global user.email "dchaudhari758@gmail.com"
+PS C:\Users\MrD\Desktop\cdac doc\SDM> git config user.email
+dchaudhari758@gmail.com
+PS C:\Users\MrD\Desktop\cdac doc\SDM> git config user.name
+dhananjay
+PS C:\Users\MrD\Desktop\cdac doc\SDM>
