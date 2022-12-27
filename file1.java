@@ -6,5 +6,6 @@ public class file{
 	System.out.println("y :"+y);
 	System.out.println("hello wrold");
 	System.out.println("Good morning");
+	System.out.println("Good night");
 }
 }
